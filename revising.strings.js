@@ -2,4 +2,4 @@ var pizza = 'pizza is alright';
 
 pizza = pizza.replace('alright', 'wonderful');
 
-console.log(example);
+console.log(pizza);
